@@ -1,0 +1,7 @@
+  <!-- Footer -->
+  <footer class="footer">
+    <div class="rights">
+      <p>© Copyright 2016 MotiCV. All right reserved.</p>
+    </div>
+  </footer>
+  <!-- End Footer --> 

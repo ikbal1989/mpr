@@ -1,0 +1,16 @@
+{
+    "name": "Remotecv",
+    "alias": "remotecv",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\Remotecv\\Providers\\RemotecvServiceProvider"
+    ],
+    "aliases": {},
+    "files": [
+        "start.php"
+    ],
+    "requires": []
+}

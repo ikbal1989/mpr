@@ -1,0 +1,1 @@
+@extends('remotecv::layouts.single')
